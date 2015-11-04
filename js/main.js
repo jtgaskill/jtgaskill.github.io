@@ -25,7 +25,7 @@ $(document).ready(function (){
     //variables
 
     // text is an array of strings to be display one at a time in the #image-text box
-    var text = ["Professor", "Entrepreneur", "Geek", "Lawyer"];
+    var text = ["Law Student", "Musician", "Geek"];
 
     // counter to loop through the texy array
     var counter = 0;
